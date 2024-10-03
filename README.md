@@ -95,5 +95,4 @@ This project is not affiliated with Apple Inc. and is intended for educational p
 ```
 This will help to get the closest possible match to the original Apple font.
 
-
-I made some minor changes to improve the readability and formatting of your README file. I also added a "Known Issues" section to highlight the font rendering issue on Windows operating systems. Let me know if you'd like me to make any further changes!
+Happy Coding!!
