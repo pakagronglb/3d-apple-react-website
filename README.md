@@ -4,6 +4,8 @@
 
 A clone of the Apple website, built for educational purposes. This project was completed in 3 hours, thanks to the tutorial by JSM on YouTube.
 
+### You can check it out now LIVE: https://3d-apple-react-website.vercel.app/ ###
+
 ![Preview Image](https://github.com/user-attachments/assets/d1f837b2-9aa9-4f1e-8aad-28148d3acd67)
 
 
